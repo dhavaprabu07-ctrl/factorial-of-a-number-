@@ -54,7 +54,7 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1600" height="849" alt="WhatsApp Image 2026-10-23 at 8 15 11 AM" src="https://github.com/user-attachments/assets/9495233f-5503-4830-bdd6-0e781a4cf5dd" />
 
 ---
 MANUAL CALCULATIONS
